@@ -10,6 +10,8 @@ I work at Microsoft during the day. Everything here is nights-and-weekends work,
 
 ## Claude Code & OpenClaw Plugins
 
+🦞 **[HomeClaw](https://github.com/omarshahine/HomeClaw)** — HomeKit smart home control via MCP. Control lights, locks, thermostats, and scenes from Claude Desktop, Claude Code, or OpenClaw. Native macOS menu bar app with a split-process architecture to work around Apple's HomeKit restrictions.
+
 🍎 **[Apple PIM](https://github.com/omarshahine/Apple-PIM-Agent-Plugin)** — Native macOS integration for Calendar, Reminders, Contacts, and Mail using EventKit and Contacts frameworks. Works with Claude Code (MCP) and OpenClaw.
 
 🔌 **[Agent Plugins](https://github.com/omarshahine/Agent-Plugins)** — Plugin marketplace for Claude Code. Includes Chief-of-Staff (email triage & productivity orchestrator), travel agent, credit card benefit tracking, and AI-powered file renaming.
