@@ -8,6 +8,8 @@ I work at Microsoft during the day. Everything here is nights-and-weekends work,
 
 🛠️ **[ShellCraft](https://github.com/omarshahine/ShellCraft)** — Native macOS app for managing shell configuration through a GUI. Edit aliases, PATH, SSH keys, Git config, Homebrew, and Claude Code settings from a single window.
 
+💬 **[Obsidian Chat](https://github.com/omarshahine/obsidian-chat)** — Agentic AI chat plugin for Obsidian. Two providers (Anthropic + OpenAI), best models, no bloat. Reads, edits, and creates notes through natural conversation with a mobile-first design.
+
 ## Claude Code & OpenClaw Plugins
 
 🦞 **[HomeClaw](https://github.com/omarshahine/HomeClaw)** — HomeKit smart home control via MCP. Control lights, locks, thermostats, and scenes from Claude Desktop, Claude Code, or OpenClaw. Native macOS menu bar app with a split-process architecture to work around Apple's HomeKit restrictions.
