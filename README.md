@@ -18,6 +18,8 @@ I work at Microsoft during the day. Everything here is nights-and-weekends work,
 
 🔌 **[Agent Plugins](https://github.com/omarshahine/Agent-Plugins)** — Plugin marketplace for Claude Code. Includes Chief-of-Staff (email triage & productivity orchestrator), travel agent, credit card benefit tracking, and AI-powered file renaming.
 
+🎬 **[Trakt Plugin](https://github.com/omarshahine/trakt-plugin)** — Track movies and TV shows via [Trakt.tv](https://trakt.tv). Go CLI with `--json` output plus OpenClaw and Claude Code plugins. Search, watch history, watchlist, show progress, and mark-as-watched. Based on [angristan/trakt-cli](https://github.com/angristan/trakt-cli).
+
 📧 **[Fastmail MCP](https://github.com/omarshahine/fastmail-mcp-remote)** — Remote MCP server for Fastmail running on Cloudflare Workers, secured with Cloudflare Access OAuth.
 
 📝 **[Rename Agent](https://github.com/omarshahine/claude-rename-agent)** — AI-powered file renaming agent built with the Claude Agent SDK. Reads file contents and renames intelligently.
