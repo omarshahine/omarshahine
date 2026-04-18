@@ -24,6 +24,8 @@ I work at Microsoft during the day. Everything here is nights-and-weekends work,
 
 📝 **[Rename Agent](https://github.com/omarshahine/claude-rename-agent)** — AI-powered file renaming agent built with the Claude Agent SDK. Reads file contents and renames intelligently.
 
+🍽️ **[restaurant-cli](https://github.com/omarshahine/restaurant-cli)** — Pluggable reservation booking across Resy and OpenTable (Tock and SevenRooms coming). Search, book, snipe (timed-release booking via POSIX `at`), cancel, and list reservations from one CLI. Also ships as an OpenClaw plugin and a Claude Code plugin.
+
 ## Other Projects
 
 🔥 **[Valor Fireplace CLI](https://github.com/omarshahine/valor-fireplace-cli)** — Command line interface to control Valor fireplaces over your local network.
