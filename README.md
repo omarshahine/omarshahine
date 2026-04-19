@@ -26,6 +26,8 @@ I work at Microsoft during the day. Everything here is nights-and-weekends work,
 
 🍽️ **[restaurant-cli](https://github.com/omarshahine/restaurant-cli)** — Pluggable reservation booking across Resy and OpenTable (Tock and SevenRooms coming). Search, book, snipe (timed-release booking via POSIX `at`), cancel, and list reservations from one CLI. Also ships as an OpenClaw plugin and a Claude Code plugin.
 
+💡 **[lutron-cli](https://github.com/omarshahine/lutron-cli)** — Control Lutron Caseta lighting from the terminal. Scene activation, Smart Away scheduling, and device state queries over the LEAP protocol. Ships as a PyPI package, OpenClaw plugin, and Claude Code plugin.
+
 ## Other Projects
 
 🔥 **[Valor Fireplace CLI](https://github.com/omarshahine/valor-fireplace-cli)** — Command line interface to control Valor fireplaces over your local network.
