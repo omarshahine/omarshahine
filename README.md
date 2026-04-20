@@ -18,7 +18,7 @@ I'm a maintainer of [OpenClaw](https://openclaw.ai), an open source personal AI 
 
 🌡️ **[Daikin CLI](https://github.com/omarshahine/daikin-cli)** — Control Daikin One+ thermostats from the command line. Ships as an OpenClaw plugin for natural-language climate control. Fork of [redgoose/daikin-one](https://github.com/redgoose/daikin-one).
 
-💡 **[lutron-cli](https://github.com/omarshahine/lutron-cli)** — Control Lutron Caseta lighting from the terminal. Scene activation, Smart Away scheduling, and device state queries over the LEAP protocol. Ships as a PyPI package, OpenClaw plugin, and Claude Code plugin.
+💡 **[lutron-cli](https://github.com/omarshahine/lutron-cli)** — Control Lutron Caseta lighting from the terminal. Scene activation, Smart Away scheduling, and device state queries over the LEAP protocol. Ships as an OpenClaw plugin and a Claude Code plugin.
 
 🍎 **[Apple PIM](https://github.com/omarshahine/Apple-PIM-Agent-Plugin)** — Native macOS integration for Calendar, Reminders, Contacts, and Mail using EventKit and Contacts frameworks. Works with Claude Code (MCP) and OpenClaw.
 
