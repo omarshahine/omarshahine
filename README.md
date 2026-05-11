@@ -22,6 +22,8 @@ I'm a maintainer of [OpenClaw](https://openclaw.ai), an open source personal AI 
 
 🍎 **[Apple PIM](https://github.com/omarshahine/Apple-PIM-Agent-Plugin)** — Native macOS integration for Calendar, Reminders, Contacts, and Mail using EventKit and Contacts frameworks. Works with Claude Code (MCP) and OpenClaw.
 
+📍 **[findmy-cli](https://github.com/omarshahine/findmy-cli)** — Query Find My friend locations on macOS via UI scraping. Drives FindMy.app, screencaptures the People sidebar, runs Vision OCR, and returns name, location, staleness, and distance for everyone you follow. Installable via Homebrew (`brew install omarshahine/tap/findmy-cli`). Ships as an OpenClaw plugin and a Claude Code plugin.
+
 📦 **[openclaw-parcel](https://github.com/omarshahine/openclaw-parcel)** — Package delivery tracking via [Parcel](https://parcelapp.net). Check status, add tracking numbers, and see what's arriving without leaving the terminal.
 
 📚 **[openclaw-instapaper](https://github.com/omarshahine/openclaw-instapaper)** — Instapaper reading list management. Save articles, list unread bookmarks, archive, and export highlights to Obsidian.
