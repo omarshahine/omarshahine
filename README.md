@@ -16,39 +16,49 @@ I work at Microsoft during the day. The projects here are nights-and-weekends wo
 
 ## Featured Projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [HomeClaw](https://github.com/omarshahine/HomeClaw) | HomeKit control for lights, locks, thermostats, and scenes from Claude Desktop, Claude Code, or OpenClaw. Includes a native macOS menu bar app and split-process architecture for Apple's HomeKit constraints. | Swift, MCP |
-| [`findmy-cli`](https://github.com/omarshahine/findmy-cli) | Query Find My friend locations on macOS through UI automation, screenshots, Vision OCR, and structured CLI output. | Go, macOS |
-| [Obsidian Chat](https://github.com/omarshahine/obsidian-chat) | Agentic AI chat inside Obsidian with Anthropic and OpenAI support, note reading, note editing, and mobile-first UI. | TypeScript, Obsidian |
-| [Apple PIM CLI Tools](https://github.com/omarshahine/Apple-PIM-Agent-Plugin) | Native macOS access to Calendar, Reminders, Contacts, and Mail through Apple frameworks for Claude Code and OpenClaw. | Swift, EventKit |
-| [Fastmail Remote](https://github.com/omarshahine/fastmail-mcp-remote) | Remote MCP server for Fastmail on Cloudflare Workers, secured with Cloudflare Access OAuth. | TypeScript, Workers |
-| [ShellCraft](https://github.com/omarshahine/ShellCraft) | Native macOS app for managing shell configuration, including aliases, PATH, SSH keys, Git config, Homebrew, and Claude Code settings. | Swift, macOS |
+🦞 **[HomeClaw](https://github.com/omarshahine/HomeClaw)** - HomeKit control for lights, locks, thermostats, and scenes from Claude Desktop, Claude Code, or OpenClaw. Includes a native macOS menu bar app and split-process architecture for Apple's HomeKit constraints.
+
+📍 **[`findmy-cli`](https://github.com/omarshahine/findmy-cli)** - Query Find My friend locations on macOS through UI automation, screenshots, Vision OCR, and structured CLI output.
+
+💬 **[Obsidian Chat](https://github.com/omarshahine/obsidian-chat)** - Agentic AI chat inside Obsidian with Anthropic and OpenAI support, note reading, note editing, and mobile-first UI.
+
+🍎 **[Apple PIM CLI Tools](https://github.com/omarshahine/Apple-PIM-Agent-Plugin)** - Native macOS access to Calendar, Reminders, Contacts, and Mail through Apple frameworks for Claude Code and OpenClaw.
+
+📧 **[Fastmail Remote](https://github.com/omarshahine/fastmail-mcp-remote)** - Remote MCP server for Fastmail on Cloudflare Workers, secured with Cloudflare Access OAuth.
+
+🛠️ **[ShellCraft](https://github.com/omarshahine/ShellCraft)** - Native macOS app for managing shell configuration, including aliases, PATH, SSH keys, Git config, Homebrew, and Claude Code settings.
 
 ## Agent and OpenClaw Plugins
 
 I'm a maintainer of [OpenClaw](https://openclaw.ai), an open source personal AI assistant. Many of these projects also ship as Claude Code plugins.
 
-| Project | Focus |
-| --- | --- |
-| [`lutron-cli`](https://github.com/omarshahine/lutron-cli) | Lutron Caseta lighting, shades, fans, warm-dim bulbs, Pico remotes, scenes, Smart Away, battery checks, and whole-home state export. |
-| [`restaurant-cli`](https://github.com/omarshahine/restaurant-cli) | Pluggable restaurant reservation booking across Resy and OpenTable, with search, booking, cancellation, listing, and timed-release sniping. |
-| [`openclaw-parcel`](https://github.com/omarshahine/openclaw-parcel) | Package delivery tracking through Parcel, including add, list, and status workflows from the terminal. |
-| [`openclaw-instapaper`](https://github.com/omarshahine/openclaw-instapaper) | Instapaper reading-list management, archiving, and highlight export to Obsidian. |
-| [`trakt-plugin`](https://github.com/omarshahine/trakt-plugin) | Movie and TV tracking through Trakt.tv with search, watch history, watchlist, show progress, and mark-as-watched flows. |
-| [`daikin-cli`](https://github.com/omarshahine/daikin-cli) | Daikin One+ thermostat control from the command line and natural-language assistant workflows. |
-| [Chief-of-Staff Plugin Template](https://github.com/omarshahine/chief-of-staff-template) | Template for building Claude Code personal assistant plugins, including email triage, travel, credit-card benefits, and file-renaming examples. |
-| [Rename Agent](https://github.com/omarshahine/claude-rename-agent) | AI-powered file renaming agent built with the Claude Agent SDK. |
+💡 **[`lutron-cli`](https://github.com/omarshahine/lutron-cli)** - Lutron Caseta lighting, shades, fans, warm-dim bulbs, Pico remotes, scenes, Smart Away, battery checks, and whole-home state export.
+
+🍽️ **[`restaurant-cli`](https://github.com/omarshahine/restaurant-cli)** - Pluggable restaurant reservation booking across Resy and OpenTable, with search, booking, cancellation, listing, and timed-release sniping.
+
+📦 **[`openclaw-parcel`](https://github.com/omarshahine/openclaw-parcel)** - Package delivery tracking through Parcel, including add, list, and status workflows from the terminal.
+
+📚 **[`openclaw-instapaper`](https://github.com/omarshahine/openclaw-instapaper)** - Instapaper reading-list management, archiving, and highlight export to Obsidian.
+
+🎬 **[`trakt-plugin`](https://github.com/omarshahine/trakt-plugin)** - Movie and TV tracking through Trakt.tv with search, watch history, watchlist, show progress, and mark-as-watched flows.
+
+🌡️ **[`daikin-cli`](https://github.com/omarshahine/daikin-cli)** - Daikin One+ thermostat control from the command line and natural-language assistant workflows.
+
+🔌 **[Chief-of-Staff Plugin Template](https://github.com/omarshahine/chief-of-staff-template)** - Template for building Claude Code personal assistant plugins, including email triage, travel, credit-card benefits, and file-renaming examples.
+
+📝 **[Rename Agent](https://github.com/omarshahine/claude-rename-agent)** - AI-powered file renaming agent built with the Claude Agent SDK.
 
 ## Other Useful Tools
 
-| Project | Focus |
-| --- | --- |
-| [Valor Fireplace CLI](https://github.com/omarshahine/valor-fireplace-cli) | Local-network control for Valor fireplaces from the command line. |
-| [`homebridge-valor-fireplace`](https://github.com/omarshahine/homebridge-valor-fireplace) | Homebridge integration for Valor fireplaces. |
-| [FamZoo YNAB Sync](https://github.com/omarshahine/famzoo-ynab-sync) | Sync FamZoo family finance transactions with YNAB budgets. |
-| [Version Consistency Action](https://github.com/omarshahine/version-consistency-action) | GitHub composite action for keeping version strings aligned across JSON manifest files. |
-| [Homebrew Tap](https://github.com/omarshahine/homebrew-tap) | Homebrew formulas for my CLIs and tools. |
+🔥 **[Valor Fireplace CLI](https://github.com/omarshahine/valor-fireplace-cli)** - Local-network control for Valor fireplaces from the command line.
+
+🏠 **[`homebridge-valor-fireplace`](https://github.com/omarshahine/homebridge-valor-fireplace)** - Homebridge integration for Valor fireplaces.
+
+💰 **[FamZoo YNAB Sync](https://github.com/omarshahine/famzoo-ynab-sync)** - Sync FamZoo family finance transactions with YNAB budgets.
+
+✅ **[Version Consistency Action](https://github.com/omarshahine/version-consistency-action)** - GitHub composite action for keeping version strings aligned across JSON manifest files.
+
+🍺 **[Homebrew Tap](https://github.com/omarshahine/homebrew-tap)** - Homebrew formulas for my CLIs and tools.
 
 ## Elsewhere
 
