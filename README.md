@@ -35,6 +35,8 @@ I'm a maintainer of [OpenClaw](https://openclaw.ai), an open source personal AI 
 
 💡 **[lutron-cli](https://github.com/omarshahine/lutron-cli)** - Lutron Caseta lighting, shades, fans, warm-dim bulbs, Pico remotes, scenes, Smart Away, battery checks, and whole-home state export.
 
+🟢 **[aqara-cli](https://github.com/omarshahine/aqara-cli)** - Aqara Open Cloud API client — homes, devices, rooms, scenes, rename and move, OAuth browser bootstrap, and a launchd refresher so tokens never expire. The CLI everyone reaches for after the official Aqara MCP server proves too limited.
+
 🍽️ **[restaurant-cli](https://github.com/omarshahine/restaurant-cli)** - Pluggable restaurant reservation booking across Resy and OpenTable, with search, booking, cancellation, listing, and timed-release sniping.
 
 📦 **[openclaw-parcel](https://github.com/omarshahine/openclaw-parcel)** - Package delivery tracking through Parcel, including add, list, and status workflows from the terminal.
