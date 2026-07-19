@@ -23,7 +23,7 @@ I work at Microsoft during the day. The projects here are nights-and-weekends wo
 
 💬 **[Obsidian Chat](https://github.com/omarshahine/obsidian-chat)** - Agentic AI chat inside Obsidian with Anthropic and OpenAI support, note reading, note editing, and mobile-first UI.
 
-🍎 **[Apple PIM CLI Tools](https://github.com/omarshahine/Apple-PIM-Agent-Plugin)** - Native macOS access to Calendar, Reminders, Contacts, and Mail through Apple frameworks for Claude Code and OpenClaw.
+🍎 **[Apple PIM CLI Tools](https://github.com/omarshahine/apple-pim)** - Native macOS access to Calendar, Reminders, Contacts, and Mail through Apple frameworks for Claude Code and OpenClaw.
 
 📧 **[Fastmail Remote](https://github.com/omarshahine/fastmail-mcp-remote)** - Remote MCP server for Fastmail on Cloudflare Workers, secured with Cloudflare Access OAuth.
 
