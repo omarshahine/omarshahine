@@ -17,6 +17,8 @@ I work at Microsoft during the day. The projects here are nights-and-weekends wo
 
 ## Featured Projects
 
+😀 **[Spotmoji](https://github.com/omarshahine/spotmoji)** - A Spotlight-first macOS emoji picker. Type Spotmoji in Spotlight, search by name or shortcode, and paste the selected emoji directly into the active app.
+
 🦞 **[HomeClaw](https://github.com/omarshahine/HomeClaw)** - HomeKit control for lights, locks, thermostats, and scenes from Claude Desktop, Claude Code, or OpenClaw. Includes a native macOS menu bar app and split-process architecture for Apple's HomeKit constraints.
 
 📍 **[findmy-cli](https://github.com/omarshahine/findmy-cli)** - Query Find My friend locations on macOS through UI automation, screenshots, Vision OCR, and structured CLI output.
