@@ -17,6 +17,8 @@ I work at Microsoft during the day. The projects here are nights-and-weekends wo
 
 ## Featured Projects
 
+📋 **[ClipDown](https://github.com/omarshahine/clipdown)** - Copy from the terminal, paste into Teams, keep the formatting. A macOS menu bar app that reshapes the clipboard for the app you paste into: rich text for Teams, Outlook, and Slack, Markdown for Obsidian and Notion, and your original text everywhere else.
+
 😀 **[Spotmoji](https://github.com/omarshahine/spotmoji)** - A Spotlight-first macOS emoji picker. Type Spotmoji in Spotlight, search by name or shortcode, and paste the selected emoji directly into the active app.
 
 🦞 **[HomeClaw](https://github.com/omarshahine/HomeClaw)** - HomeKit control for lights, locks, thermostats, and scenes from Claude Desktop, Claude Code, or OpenClaw. Includes a native macOS menu bar app and split-process architecture for Apple's HomeKit constraints.
